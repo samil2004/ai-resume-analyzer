@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+.env
+resume_analyzer.db
+resume_analyzer.db-shm
+resume_analyzer.db-wal
